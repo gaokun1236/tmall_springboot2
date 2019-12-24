@@ -64,3 +64,8 @@ ForeRESTController.对createOrder进行事务管理
 
 12. 缓存处理
 全站数据通过 redis 进行了缓存
+
+
+![image](https://github.com/gaokun1236/tmall_springboot2/blob/master/images/%E8%AE%A2%E5%8D%95%C2%B7.png)
+
+![image]()
