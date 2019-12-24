@@ -66,6 +66,13 @@ ForeRESTController.对createOrder进行事务管理
 全站数据通过 redis 进行了缓存
 
 
+imags文件夹只放了项目成功运行的截图。以下只放两张
 ![image](https://github.com/gaokun1236/tmall_springboot2/blob/master/images/%E8%AE%A2%E5%8D%95%C2%B7.png)
 
-![image]()
+![image](https://github.com/gaokun1236/tmall_springboot2/blob/master/images/%E5%90%8E%E7%AB%AF.png)
+
+
+
+启动项目：
+1.sql文件放在other文件夹里面
+2.redis_elasticsearch 解压后，先按照顺序运行，然后再启动项目
