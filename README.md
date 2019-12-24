@@ -1,6 +1,8 @@
 # tmall_springboot2
 1.使用到的技术：
 springboot,hibernate,shiro,redis,rest接口开发,前后端分离，vue.js
+
+
 2. java源代码包结构
 pojo 实体
 config 配置
@@ -14,12 +16,16 @@ service Service层
 test 测试类
 util 工具类
 comparator 比较类
+
+
 3. webapp 目录
 css css文件
 img 图片资源
 js js文件
 4. templates
 thymeleaf 模板文件
+
+
 
 实现的功能：
 1. 购物车
