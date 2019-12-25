@@ -1,4 +1,10 @@
 # tmall_springboot2
+
+演示链接：
+http://how2j.cn/tmall
+http://how2j.cn/tmall/admin
+
+
 1.使用到的技术：
 springboot,hibernate,shiro,redis,rest接口开发,前后端分离，vue.js
 
